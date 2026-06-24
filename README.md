@@ -90,7 +90,7 @@ We use the **PlantVillage Dataset** available on Kaggle:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/plant-disease-detection.git
+git clone https://github.com/Muhammed782/plant-disease-detection.git
 cd plant-disease-detection
 ```
 
